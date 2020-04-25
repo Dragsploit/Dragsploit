@@ -9,3 +9,6 @@ Offical Discord server and place to get the exploit: https://discord.gg/qj6RUHr
 
 Official youtube reviews: 
 https://www.youtube.com/watch?v=qUXpsQ7O3Pc&t=137s [OgModders - Hacking and music!]
+
+
+https://youtu.be/J7dssTuiT1E [Deadmeme xx]
