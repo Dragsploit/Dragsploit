@@ -5,3 +5,11 @@ game.StarterGui:SetCore("ChatMakeSystemMessage",{
  Color = bc.Color;
  FontSize = Enum.FontSize.Size96;
 })
+
+bc = BrickColor.new ("Toothpaste")
+game.StarterGui:SetCore("ChatMakeSystemMessage",{
+ Text = "[Dragsploit]: Sub to Deadmeme xx! Confirmed youtuber that reviewed Dragsploit!";
+ Font = Enum.Font.SourceSans;
+ Color = bc.Color;
+ FontSize = Enum.FontSize.Size96;
+})
