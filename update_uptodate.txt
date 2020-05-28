@@ -1,6 +1,6 @@
 bc = BrickColor.new ("Toothpaste")
 game.StarterGui:SetCore("ChatMakeSystemMessage",{
- Text = "[Dragsploit]: Thank you for using Dragsploit!";
+ Text = "[Dragsploit]: Welcome to Dragsploit!";
  Font = Enum.Font.SourceSans;
  Color = bc.Color;
  FontSize = Enum.FontSize.Size96;
