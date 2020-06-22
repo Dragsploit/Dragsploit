@@ -7,7 +7,7 @@ Thanks to the WeAreDevs and EasyExploits team for providing the required tools t
 
 Credits to the developers of the Tools, I do not own them and they are just packaged with Dragsploit (FPS Unlocker & Lag Switch)
 
-Credits to the people who made the IMGs in Themes (Don't have the links ,sorry)
+Credits to the people who made the IMGs in Themes
 
 AND MOST IMPORTANTLY.  Thank you to the wonderful server staff and members of the server for being with me through the development of Dragsploit!
 
