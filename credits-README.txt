@@ -7,6 +7,8 @@ Thanks to the WeAreDevs and EasyExploits team for providing the required tools t
 
 Credits to the developers of the Tools, I do not own them and they are just packaged with Dragsploit (FPS Unlocker & Lag Switch)
 
+Credits to the people who made the IMGs in Themes (Don't have the links ,sorry)
+
 Offical Discord server and place to get the exploit: https://discord.gg/zqzAW5G
 
 Official youtube reviews: 
