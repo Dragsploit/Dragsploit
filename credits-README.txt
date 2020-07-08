@@ -5,7 +5,7 @@ DO NOT MODIFY OR REDISTRIBUTE MY EXPLOIT!
 
 Thanks to the WeAreDevs and CheatSquad team for providing the required tools to make this exploit possible. :)
 
-Credits to the developers of the Tools, I do not own them and they are just packaged with Dragsploit (FPS Unlocker & Lag Switch)
+Credits to the developers of the Tools, I do not own them and they are just packaged with Dragsploit (FPS Unlocker, Lag Switch & Mac Changer)
 
 Credits to the people who made the IMGs in Themes
 
