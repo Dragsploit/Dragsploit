@@ -3,11 +3,10 @@ This exploit was created by Dragsploit, I am solo developer and only developer f
 DO NOT MODIFY OR REDISTRIBUTE MY EXPLOIT!
 
 
-Thanks to the WeAreDevs and CheatSquad team for providing the required tools to make this exploit possible. :)
+Thanks to the EasyExploits and CheatSquad team for providing the required tools to make this exploit possible. :)
 
-Credits to the developers of the Tools, I do not own them and they are just packaged with Dragsploit (FPS Unlocker, Lag Switch & Mac Changer)
+Credits to the developers of the Tools, I do not own them and they are just packaged with Dragsploit (FPS Unlocker, Lag Switch & Multi Roblox)
 
-Credits to the people who made the IMGs in Themes
 
 AND MOST IMPORTANTLY.  Thank you to the wonderful server staff and members of the server for being with me through the development of Dragsploit!
 
